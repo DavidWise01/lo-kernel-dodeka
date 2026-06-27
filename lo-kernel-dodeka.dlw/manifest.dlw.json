@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-LO_KERNEL_DODEKA",
+  "name": "LO // 8^(4n)+1 KERNEL (DODEKA)",
+  "universe": "IDIOS",
+  "moniker": "⟦LO // 8^(4n)+1 KERNEL (DODEKA):lo-kernel-dodeka:2e4d88⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "2e4d8885322c8693be51b9feaf2e9d9a13d48d194b9891eb3114f797a66aee7d",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

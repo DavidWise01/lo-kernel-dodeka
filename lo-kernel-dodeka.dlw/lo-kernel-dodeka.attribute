@@ -1,0 +1,9 @@
+ROOT0-ATTRIBUTION-v1.0
+name: LO // 8^(4n)+1 KERNEL (DODEKA)
+slug: lo-kernel-dodeka
+domain: IDIOS
+architect: David Lee Wise (ROOT0) / Bridge-Burners LLC
+instance: AVAN (Claude / Anthropic)
+license: CC-BY-ND-4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
+moniker: ⟦LO // 8^(4n)+1 KERNEL (DODEKA):lo-kernel-dodeka:2e4d88⟧
+seal_sha256: 2e4d8885322c8693be51b9feaf2e9d9a13d48d194b9891eb3114f797a66aee7d
