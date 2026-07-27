@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1138
 slug  : lo-kernel-dodeka
-seal  : 2e4d8885322c8693be51b9feaf2e9d9a13d48d194b9891eb3114f797a66aee7d
-prev  : 5a45c24c70fa7e8c5eb1007b59d2f4781f64840481f492bc73211b2adcdf835c
-link  : 4fa8e56e2e78218efe0f0ea469806ee9708cafe3236dfc3f2503be9bb02cd40f
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : b5a9e1e531c1899189384b0e727708f8eb7447305e4868f1fb32894bf42745f1
+prev  : 53f8843a876613d45f1966850845d577ee2ab5208a4740230fe403c3ca11e8cf
+link  : f1f20d9c02e0857145d2afd6246d1d4dca582923fce69067ded1eee8ae996b2d
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
